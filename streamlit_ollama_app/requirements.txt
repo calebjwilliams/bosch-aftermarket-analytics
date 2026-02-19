@@ -1,5 +1,0 @@
-duckdb-engine
-pyarrow>=22.0.0
-streamlit
-langchain-ollama
-
